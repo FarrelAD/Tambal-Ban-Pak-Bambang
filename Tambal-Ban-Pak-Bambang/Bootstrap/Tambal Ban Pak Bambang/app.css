@@ -1,0 +1,47 @@
+body {
+    height: 2000px;
+}
+
+#main-navbar {
+    background-color: #36436F;
+}
+
+.main-navbar-text {
+    color: white;
+}
+
+.main-navbar-text:hover {
+    color: #24282B;
+}
+
+#main-landing-page {
+    margin-top: 6rem;
+}
+
+#main-landing-page > .card-img-overlay {
+    background: rgb(36,40,43);
+    background: linear-gradient(0deg, rgba(36,40,43,1) 20%, rgba(74,78,80,0.8223452194357367) 53%, rgba(255,255,255,0) 100%);
+}
+
+.card-title .card-text {
+    text-shadow: 2px 2px black;
+}
+
+.additional-text {
+    margin-left: 8rem;
+}
+
+#button-tambal-sekarang {
+    margin-top: 1rem;
+    margin-bottom: 6rem;
+    background-color: #B6000F;
+    border: none;
+    border-radius: .5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 10px;
+    color: white;
+    padding: 1rem;
+}
+
+#button-tambal-sekarang:hover {
+    color: #24282B;
+}
