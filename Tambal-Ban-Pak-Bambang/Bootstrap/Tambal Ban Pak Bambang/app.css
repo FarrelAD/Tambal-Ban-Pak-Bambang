@@ -15,7 +15,7 @@ body {
 }
 
 #main-landing-page {
-    margin-top: 6rem;
+    margin-top: 4.5rem;
 }
 
 #main-landing-page > .card-img-overlay {
@@ -59,12 +59,12 @@ footer {
     height: 10rem;
     background-color: #24282B;
     bottom: 0;
+    color: red;
 }
 
 #content {
     margin: auto;
-    display: flex;
-    flex-direction: column;
+    padding-top: 3rem;
     text-align: center;
     justify-content: center;
     align-items: center;

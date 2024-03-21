@@ -1,0 +1,43 @@
+body {
+    
+}
+
+#main-navbar {
+    background-color: #36436F;
+}
+
+.main-navbar-text {
+    color: white;
+}
+
+.main-navbar-text:hover {
+    color: #24282B;
+}
+
+main {
+    margin: 6rem 2rem 3rem 2rem;
+}
+
+/* .each-contact-button {
+    margin: .3rem;
+} */
+
+#whatsapp-button {
+    color: white;
+    background-color: #075E54;
+}
+
+#facebook-button {
+    color: white;
+    background-color: #1877F2;
+}
+
+#email-button {
+    color: white;
+    background-color: #ec1346;
+}
+
+/* #contact-buttons {
+    display: flex;
+    flex-direction: column;
+} */
