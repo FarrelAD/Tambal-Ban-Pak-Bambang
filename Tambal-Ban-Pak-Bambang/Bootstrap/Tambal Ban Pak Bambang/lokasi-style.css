@@ -1,0 +1,19 @@
+body {
+    
+}
+
+#main-navbar {
+    background-color: #36436F;
+}
+
+.main-navbar-text {
+    color: white;
+}
+
+.main-navbar-text:hover {
+    color: #24282B;
+}
+
+main {
+    margin: 6rem 2rem 3rem 2rem;
+}
