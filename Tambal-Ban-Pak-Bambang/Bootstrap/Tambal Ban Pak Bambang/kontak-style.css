@@ -18,10 +18,6 @@ main {
     margin: 6rem 2rem 3rem 2rem;
 }
 
-/* .each-contact-button {
-    margin: .3rem;
-} */
-
 #whatsapp-button {
     color: white;
     background-color: #075E54;
@@ -34,10 +30,10 @@ main {
 
 #email-button {
     color: white;
-    background-color: #ec1346;
+    background-color: #FF5345;
 }
 
-/* #contact-buttons {
-    display: flex;
-    flex-direction: column;
-} */
+.img-button {
+    width: 30px;
+    margin-left: 1rem;
+}
