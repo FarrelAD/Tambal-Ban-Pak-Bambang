@@ -1,5 +1,5 @@
 body {
-    height: 2000px;
+    
 }
 
 #main-navbar {
@@ -44,4 +44,29 @@ body {
 
 #button-tambal-sekarang:hover {
     color: #24282B;
+}
+
+#gallery {
+    margin-top: 10rem;
+}
+
+.gallery-media {
+    margin: auto;
+}
+
+footer {
+    margin-top: 10rem;
+    height: 10rem;
+    background-color: #24282B;
+    bottom: 0;
+}
+
+#content {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
