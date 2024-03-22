@@ -1,0 +1,41 @@
+body {
+    
+}
+
+#main-navbar {
+    background-color: #36436F;
+}
+
+.main-navbar-text {
+    color: white;
+}
+
+.main-navbar-text:hover {
+    color: #24282B;
+}
+
+main {
+    margin-top: 4rem;
+}
+
+#form-container {
+    background-image: url(image/foto-jalan-raya-3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#kebocoran-form {
+    padding-top: 12rem;
+}
+
+#tombol-kirim-form {
+    margin-top: 1rem;
+}
+
+footer {
+    background-color: #24282B;
+    height: 15rem;
+}
+
+
+
