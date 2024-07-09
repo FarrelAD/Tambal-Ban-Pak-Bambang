@@ -1,7 +1,3 @@
-body {
-    
-}
-
 #main-navbar {
     background-color: #36436F;
 }
@@ -16,6 +12,11 @@ body {
 
 #main-landing-page {
     margin-top: 4.5rem;
+    height: 100vh;
+}
+
+#main-landing-page > img {
+    height: 100%;
 }
 
 #main-landing-page > .card-img-overlay {
